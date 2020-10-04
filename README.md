@@ -19,4 +19,5 @@ Created a middleware so that only umer@gmail.com can add prroducts.
 2. Create a category and associate a tag with it.
 3. Finally you can add product with multiple tags and categories.
 
-<strong>Note:</strong> The counters on dashboard are functional
+<strong>Note:</strong> The counters on dashboard are functional.
+<strong>Note:</strong> I have addded some screenshots in root directory.
