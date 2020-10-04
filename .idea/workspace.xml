@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e57d311-3f20-4fc7-b2ad-78d2b10ee2ac" name="Default Changelist" comment="" />
+    <list default="true" id="1e57d311-3f20-4fc7-b2ad-78d2b10ee2ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -170,7 +175,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601667638619</updated>
       <workItem from="1601667639720" duration="4063000" />
-      <workItem from="1601719897309" duration="27588000" />
+      <workItem from="1601719897309" duration="27950000" />
+      <workItem from="1601808181435" duration="674000" />
     </task>
     <servers />
   </component>
